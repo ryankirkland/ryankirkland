@@ -19,7 +19,7 @@
 
 - OpenCV with Python for image processing to extract CDL match data from YouTube videos
 - Studying for my AWS Solutions Architect Associate certification
-- Always working on Leetcode Python and SQl challenges
+- Always working on Leetcode Python and SQL challenges
 
 ### 👯 Let's Collab
 
