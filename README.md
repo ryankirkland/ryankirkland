@@ -5,11 +5,14 @@
 
 #### 🔭 Currently Working On
 
-I’m currently a Data Scientist in Residence for the Galvanize Seattle Data Science Immersive, and I am personally working on a predictive model for Call of Duty League match outcomes and player stats. I am also running the Amazon Seller account for Pale Blue Earth rechargeable batteries. #DitchDisposables
+Employment: Data Scientist in Residence for the Galvanize Seattle Data Science Immersive
+Personal Project: Predictive model for Call of Duty League match outcomes and player stats.
+Consulting: Running the Amazon Seller account for Pale Blue Earth rechargeable batteries. #DitchDisposables
 
 #### 🌱 Currently Learning
 
-I’m in the process of learning OpenCV with Python for image processing and studying for my AWS Solutions Architect Associate certification.
+- I’m in the process of learning OpenCV with Python for image processing to extract CDL match data from YouTube videos.
+- Studying for my AWS Solutions Architect Associate certification.
 
 #### 👯 Let's Collab
 
