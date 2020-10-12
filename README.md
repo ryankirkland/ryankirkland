@@ -5,9 +5,10 @@
 
 #### 🔭 Currently Working On
 
-Employment: Data Scientist in Residence for the Galvanize Seattle Data Science Immersive
-Personal Project: Predictive model for Call of Duty League match outcomes and player stats.
-Consulting: Running the Amazon Seller account for Pale Blue Earth rechargeable batteries. #DitchDisposables
+- <b>Employment:</b> Data Scientist in Residence for the Galvanize Seattle Data Science Immersive
+- <b>Personal Project:</b> Predictive model for Call of Duty League match outcomes and player stats.
+- <b>Consulting:</b> Running the Amazon Seller account for Pale Blue Earth rechargeable batteries. #DitchDisposables
+- <b>Consulting:</b> 1-Hour Amazon Marketplace Consultations with various brands and agencies.
 
 #### 🌱 Currently Learning
 
