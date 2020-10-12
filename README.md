@@ -1,6 +1,5 @@
 ## Hey y'all! I'm Ryan.
 
-<img src="https://github.com/ryankirkland/ryankirkland/blob/main/title-card.png"/>
  <!-- LinkedIn Contact -->
   <a href="https://www.linkedin.com/in/ryanjkirkland/" target="_blank">
     <img src="https://img.shields.io/badge/-RYAN%20KIRKLAND-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
@@ -10,6 +9,8 @@
   <a href="mailto:ryankirkland.py@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-ryankirkland.py@gmail.com-d44638?style=for-the-badge"/>
   </a>
+
+<img src="https://github.com/ryankirkland/ryankirkland/blob/main/title-card.png"/>
 
 ## I'm a Data Scientist, Python Programmer, Amazon Seller, and eSports Enthusiast.
 
