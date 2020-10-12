@@ -1,4 +1,8 @@
-## Hey y'all! I'm Ryan. I'm a Data Scientist, Amazon Seller, and eSports Enthusiast.
+## Hey y'all! I'm Ryan.
+
+<img src="https://github.com/ryankirkland/ryankirkland/blob/main/title-card.png"/>
+
+## I'm a Data Scientist, Python Programmer, Amazon Seller, and eSports Enthusiast.
 
 <!--
 **ryankirkland/ryankirkland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
