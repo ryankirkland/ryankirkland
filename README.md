@@ -20,7 +20,7 @@
 ### 🔭 Currently Working On
 
 - <b>Employment:</b> Data Scientist in Residence for the Galvanize Seattle Data Science Immersive
-- <b>Personal Project:</b> Predictive model for Call of Duty League match outcomes and player stats
+- <b>Personal Project:</b> Building an interactive dashboard using Plotly Dash to easily compare CDL Player and Team stats
 - <b>Personal Project:</b> Natural Language Processing for Amazon product reviews for product research and development
 - <b>Consulting:</b> Running the Amazon Seller account for Pale Blue Earth rechargeable batteries #DitchDisposables
 - <b>Consulting:</b> 1-Hour Amazon Marketplace Consultations with various brands and agencies
