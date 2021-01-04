@@ -37,4 +37,5 @@ I’m looking to collaborate on Data Science and programming projects focused on
 
 ### Contact:
 - 📫 How to reach me: ryankirkland.py@gmail.com
+- 🎮 Xbox Live: xRaRaRyan (Can't do coffee during COVID, so let's game together instead!)
 - 😄 Pronouns: He/Him
