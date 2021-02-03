@@ -33,7 +33,7 @@
 
 ### 👯 Let's Collab
 
-I’m looking to collaborate on Data Science and programming projects focused on the gaming industry or for the betterment of our global climate.
+I’m looking to collaborate on Data Science and programming projects focused on the gaming industry, cryptocurrencies, or for the betterment of our global climate.
 
 ### Contact:
 - 📫 How to reach me: ryankirkland.py@gmail.com
