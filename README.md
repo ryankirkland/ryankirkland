@@ -20,14 +20,13 @@
 ### 🔭 Currently Working On
 
 - <b>Employment:</b> Data Scientist in Residence for the Galvanize Seattle Data Science Immersive
-- <b>Personal Project:</b> Building an interactive dashboard using Plotly Dash to easily compare CDL Player and Team stats
-- <b>Personal Project:</b> Natural Language Processing for Amazon product reviews for product research and development
+- <b>Personal Project:</b> An analytics application for e-commerce sales and inventory planning
 - <b>Consulting:</b> Running the Amazon Seller account for Pale Blue Earth rechargeable batteries #DitchDisposables
 - <b>Consulting:</b> 1-Hour Amazon Marketplace Consultations with various brands and agencies
 
 ### 🌱 Currently Learning
 
-- OpenCV with Python for image processing to extract CDL match data from YouTube videos
+- Django and ChartJS to develop an analytics application for e-commerce
 - Studying for my AWS Solutions Architect Associate certification
 - Always working on Leetcode Python and SQL challenges
 
