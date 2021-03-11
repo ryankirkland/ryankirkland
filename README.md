@@ -27,8 +27,7 @@
 ### 🌱 Currently Learning
 
 - Django and ChartJS to develop an analytics application for e-commerce
-- Studying for my AWS Solutions Architect Associate certification
-- Always working on Leetcode Python and SQL challenges
+- BigQuery and GCP for building more robust Google Data Studio dashboard
 
 ### 👯 Let's Collab
 
@@ -37,4 +36,5 @@ I’m looking to collaborate on Data Science and programming projects focused on
 ### Contact:
 - 📫 How to reach me: ryankirkland.py@gmail.com
 - 🎮 Xbox Live: xRaRaRyan (Can't do coffee during COVID, so let's game together instead!)
+- 🐤 Twitter: @rararyan
 - 😄 Pronouns: He/Him
