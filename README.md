@@ -19,22 +19,21 @@
 
 ### 🔭 Currently Working On
 
-- <b>Employment:</b> Data Scientist in Residence for the Galvanize Seattle Data Science Immersive
-- <b>Personal Project:</b> An analytics application for e-commerce sales and inventory planning
+- <b>Employment:</b> Head of Growth for Monolith Brands Group
+- <b>Personal Project:</b> Scraping Pitchfork reviews and collecting record sales data to compare reviews vs. sales
 - <b>Consulting:</b> Running the Amazon Seller account for Pale Blue Earth rechargeable batteries #DitchDisposables
-- <b>Consulting:</b> 1-Hour Amazon Marketplace Consultations with various brands and agencies
 
 ### 🌱 Currently Learning
 
-- Django and ChartJS to develop an analytics application for e-commerce
-- BigQuery and GCP for building more robust Google Data Studio dashboard
+- Working through Mastering Reinforcement Learning with Python
+- Ableton Live DAW for music production and sound design
 
 ### 👯 Let's Collab
 
-I’m looking to collaborate on Data Science and programming projects focused on the gaming industry, cryptocurrencies, or for the betterment of our global climate.
+I’m looking to collaborate on Data Science and programming projects focused on gaming, music, cryptocurrencies, or for the betterment of our global climate.
 
 ### Contact:
 - 📫 How to reach me: ryankirkland.py@gmail.com
-- 🎮 Xbox Live: xRaRaRyan (Can't do coffee during COVID, so let's game together instead!)
+- 🎮 Steam: SadMagic
 - 🐤 Twitter: @rararyan
 - 😄 Pronouns: He/Him
