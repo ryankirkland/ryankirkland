@@ -10,30 +10,26 @@
     <img src="https://img.shields.io/badge/EMAIL-ryankirkland.py@gmail.com-d44638?style=for-the-badge"/>
   </a>
 
-<img src="https://github.com/ryankirkland/ryankirkland/blob/main/title-card.png"/>
+<!-- <img src="https://github.com/ryankirkland/ryankirkland/blob/main/title-card.png"/> -->
 
-## I'm a Data Scientist, Python Programmer, Amazon Seller, and eSports Enthusiast.
+## I'm pretty alright with data. I write Python and SQL for work and for fun.
 
 <!--
 **ryankirkland/ryankirkland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ### 🔭 Currently Working On
 
-- <b>Employment:</b> Head of Growth for Monolith Brands Group
-- <b>Personal Project:</b> Scraping Pitchfork reviews and collecting record sales data to compare reviews vs. sales
-- <b>Consulting:</b> Running the Amazon Seller account for Pale Blue Earth rechargeable batteries #DitchDisposables
+- <b>Employment:</b> Product Manager - Data Platform @ Monolith Brands, LLC
+- <b>Day-to-day:</b> I partner with all business units across revenue, supply chain, finance, M&A, customer service and more to identify gaps in data availability, opportunties for automation, and provide insights into improved business performance. While product manager is my title, the bulk of my day is spent in SQL modeling data for Looker Studio Dashboards and QA'ing ETL pipelines.
+- <b>Personal Projects:</b> I am currently working on a process for extracting product data from Amazon to feed into Meta's Llama 3 LLM to generate quantitative and qualitative analysis of products that are surfaced for search terms.
 
 ### 🌱 Currently Learning
 
-- Working through Mastering Reinforcement Learning with Python
+- Reading Fundamentals of Data Engineering
+- Studying for AWS Solutions Architect Certification
 - Ableton Live DAW for music production and sound design
-
-### 👯 Let's Collab
-
-I’m looking to collaborate on Data Science and programming projects focused on gaming, music, cryptocurrencies, or for the betterment of our global climate.
+- How to build a chain link fence
 
 ### Contact:
 - 📫 How to reach me: ryankirkland.py@gmail.com
 - 🎮 Steam: SadMagic
-- 🐤 Twitter: @rararyan
-- 😄 Pronouns: He/Him
