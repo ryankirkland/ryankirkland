@@ -10,6 +10,10 @@
     <img src="https://img.shields.io/badge/EMAIL-ryankirkland.py@gmail.com-d44638?style=for-the-badge"/>
   </a>
 
+  <a href="https://www.credly.com/badges/99ff304b-cca3-46a1-8549-db8035acc5b7/public_url">
+    <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge"/>
+  </a>
+
 <!-- <img src="https://github.com/ryankirkland/ryankirkland/blob/main/title-card.png"/> -->
 
 ## I'm pretty alright with data. I write Python and SQL for work and for fun.
