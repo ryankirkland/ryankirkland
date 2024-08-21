@@ -25,7 +25,7 @@
 
 - <b>Employment:</b> Product Manager - Data Platform @ Monolith Brands, LLC
 - <b>Day-to-day:</b> I partner with all business units across revenue, supply chain, finance, M&A, customer service and more to identify gaps in data availability, opportunties for automation, and provide insights into improved business performance. While product manager is my title, the bulk of my day is spent in SQL modeling data for Looker Studio Dashboards and QA'ing ETL pipelines.
-- <b>Personal Projects:</b> I am currently working on a process for extracting product data from Amazon to feed into Meta's Llama 3 LLM to generate quantitative and qualitative analysis of products that are surfaced for search terms.
+- <b>Personal Projects:</b> I am currently working on a process for extracting product data from Amazon to feed into Meta's Llama 3 LLM to generate quantitative and qualitative analysis of products that are surfaced for search terms. <b>(Repo is private - reach out if interested)</b>
 
 ### 🌱 Currently Learning
 
