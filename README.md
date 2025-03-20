@@ -16,7 +16,7 @@
 
 <!-- <img src="https://github.com/ryankirkland/ryankirkland/blob/main/title-card.png"/> -->
 
-## I'm pretty alright with data. I write Python and SQL for work and for fun.
+## I'm a Business Intelligence Engineer with AI/ML experience working on expanding into data & AI engineering.
 
 <!--
 **ryankirkland/ryankirkland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
