@@ -28,7 +28,7 @@
 
 ### 🌱 Currently Learning
 
-- Reading Chip Nguyen's AI Engineering
+- Reading Chip Huyen's AI Engineering
 - Ableton Live DAW for music production and sound design
 
 ### Contact:
