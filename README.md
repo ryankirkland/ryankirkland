@@ -24,7 +24,7 @@
 ### 🔭 Currently Working On
 
 - <b>Employment:</b> AI Product Builder @ DetailPage.
-- Built an agent-enable project management software that integrates with an internal AI agent that can gather task context, craft PRDs, generate PRs on our live code base, and be an end-to-end feature request to launch assistent.
+- Built an AI agent-enabled project management software that integrates with an internal AI agent that can gather task context, craft PRDs, generate PRs on our live code base, and be an end-to-end feature request to launch assistent.
 - Built and launched Images by DetailPage, a system for analyzing customer sentiment and eCommerce product positioning to identify gaps in retail image stacks and generate product ready images for eCommerce listings (patent pending).
 - <b>Personal Projects:</b>
 - WA State Legislation monitoring software with AI summaries of legislation, senator and representative voter history, amendment diffs, and more.
