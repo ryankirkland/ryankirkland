@@ -16,20 +16,23 @@
 
 <!-- <img src="https://github.com/ryankirkland/ryankirkland/blob/main/title-card.png"/> -->
 
-## I'm a Business Intelligence Engineer with AI/ML experience working on expanding into data & AI engineering.
+## I'm an AI Product Builder, currently building retailer optimization tools at DetailPage.
 
 <!--
 **ryankirkland/ryankirkland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ### 🔭 Currently Working On
 
-- <b>Employment:</b> Business Intelligence Engineer - Amazon
-- <b>Personal Projects:</b> Tattoo artist discoverability platform, finding the balance between vibe coding with AI and not building a nightmare, and mostly learning about AI and Data Engineering
+- <b>Employment:</b> AI Product Builder @ DetailPage.
+- Built an agent-enable project management software that integrates with an internal AI agent that can gather task context, craft PRDs, generate PRs on our live code base, and be an end-to-end feature request to launch assistent.
+- Built and launched Images by DetailPage, a system for analyzing customer sentiment and eCommerce product positioning to identify gaps in retail image stacks and generate product ready images for eCommerce listings (patent pending).
+- <b>Personal Projects:</b>
+- WA State Legislation monitoring software with AI summaries of legislation, senator and representative voter history, amendment diffs, and more.
+- Homebase: An application for managing agent tasks running on local models, focused on my daily life. Trying to better understand how AI agents can help me with things outside of work.
 
 ### 🌱 Currently Learning
 
-- Reading Chip Huyen's AI Engineering
-- Ableton Live DAW for music production and sound design
+- Currently learning through building my personal projects.
 
 ### Contact:
 - 📫 How to reach me: ryankirkland.py@gmail.com
